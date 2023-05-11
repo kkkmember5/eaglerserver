@@ -1,0 +1,20 @@
+lastlocation:
+  world: bruh
+  x: 15.081966916291355
+  y: 68.5
+  z: 23.51167081677465
+  yaw: 269.10043
+  pitch: 30.149994
+timestamps:
+  login: 1667932950445
+  lastteleport: 1667933049905
+  logout: 1667933085146
+ipAddress: 127.0.0.1
+afk: false
+logoutlocation:
+  world: bruh
+  x: 3.91351192380992
+  y: 67.0
+  z: 1077.462613870355
+  yaw: 38.403904
+  pitch: 5.558798

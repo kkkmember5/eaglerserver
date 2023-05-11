@@ -1,0 +1,21 @@
+timestamps:
+  login: 1666048495364
+  jail: 0
+  lastteleport: 1665021682275
+  logout: 1666048815070
+ipAddress: 127.0.0.1
+lastlocation:
+  world: bruh
+  x: -376.69999998807907
+  y: 113.0
+  z: -38.483217081126696
+  yaw: 266.08722
+  pitch: 9.449993
+jailed: false
+logoutlocation:
+  world: bruh
+  x: -370.2955275123824
+  y: 72.39360024762314
+  z: -61.588632251800036
+  yaw: 172.33722
+  pitch: 61.949997

@@ -1,0 +1,34 @@
+timestamps:
+  login: 1668023162056
+  lastteleport: 1668023133068
+  logout: 1668023261765
+ipAddress: 127.0.0.1
+lastlocation:
+  world: bruh
+  x: 458.2590212272865
+  y: 70.0
+  z: 29.853294769370393
+  yaw: 247.37695
+  pitch: 36.519993
+logoutlocation:
+  world: bruh
+  x: 126.6468103381016
+  y: 47.0
+  z: -50.80329218024386
+  yaw: 309.85608
+  pitch: -9.497862
+homes:
+  home:
+    world: bruh
+    x: -420.641749619622
+    y: 64.0
+    z: -18.89813440086558
+    yaw: 352.95706
+    pitch: 7.9266467
+godmode: true
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

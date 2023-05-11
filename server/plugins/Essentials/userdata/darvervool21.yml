@@ -1,0 +1,23 @@
+timestamps:
+  login: 1662416581688
+  logout: 1662416629536
+ipAddress: 127.0.0.1
+lastlocation:
+  world: bruh
+  x: 107.5
+  y: 71.0
+  z: 41.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: bruh
+  x: 116.5
+  y: 68.0
+  z: 48.5
+  yaw: -4.0499997
+  pitch: 71.100006
+ban:
+  reason: '§4Banned:
+
+    §rDefault Username detected'
+  timeout: 0
