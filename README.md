@@ -1,4 +1,4 @@
-##### written with ❤️ by [ayunami2000](https://github.com/ayunami2000)
+##### written with by [ac24588](https://github.com/kkkmember5)
 # eaglercraft
 
 Combines 1.5 and 1.8 Eaglercraft servers together!
@@ -8,6 +8,12 @@ Combines 1.5 and 1.8 Eaglercraft servers together!
 
 ## looking for the client?
 well, look elsewhere buddy, because you're not gonna find it here.
+
+## is there a serverlist?
+yes there is a serverlist by [ayunami2000](https://github.com/ayunami2000) [here](https://eaglercraft-server-list.ayunami2000.repl.co)
+
+## Is this repository your server?
+Yes it is, either go on ayunami's server list and search up "ac24588" or go to [this](https://eaglercraftx.ac24588.repl.co)
 
 upload this to replit!
 
