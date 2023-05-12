@@ -15,7 +15,7 @@ yes there is a serverlist by [ayunami2000](https://github.com/ayunami2000) [here
 ## Is this repository your server?
 Yes it is, either go on ayunami's server list and search up "ac24588" or go to [this](https://eaglercraftx.ac24588.repl.co)
 
-upload this to replit!
+##### Upload this to replit if you want to host a server!
 
 ### Server supports most if not all Bukkit/Spigot 1.8 plugins. Here are a few to get you started:
 - [AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded/releases) (Set max reg per ip in the config to a very large number, and turn off listing other accounts)
